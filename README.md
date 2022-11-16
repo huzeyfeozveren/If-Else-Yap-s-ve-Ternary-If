@@ -1,0 +1,1 @@
+# If-Else-Yap-s-ve-Ternary-If
